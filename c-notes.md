@@ -16,7 +16,7 @@ C is a **general-purpose, procedural programming language** developed in the ear
 int main() {
     printf("Hello, World!\n");
     return 0;
-}
+} 
 # 🧱 Basic C Program Structure (For Beginners)
 
 Every C program follows a standard format. If you're just getting started with C programming, understanding this basic structure is your first step.
