@@ -19,7 +19,7 @@ int main() {
 }  
 # 🧱 Basic C Program Structure (For Beginners)
 
-Every C program follows a standard format. If you're just getting started with C programming, understanding this basic structure is your first step.
+Every C program follows a standard format. If you're just getting started with C programming, understanding this basic structure is your first step.'
 
 ---
 
@@ -39,4 +39,38 @@ int main()
 
     return 0; 
     // This ends the program and returns 0 to show it ran successfully.
+}
+# C Language
+
+## Introduction
+
+**C** is a versatile (adaptable) and powerful programming language that allows developers to create efficient and portable software. Its known for its close-to-hardware capabilities, making it suitable for systems programming and embedded systems.
+
+C features a **procedural programming model** and is widely used in software development, including:
+
+- Operating systems  
+- Game development  
+- Embedded systems  
+- Firmware  
+- Desktop applications  
+
+It provides **low-level control** over computer hardware while maintaining a **simple and straightforward structure**.
+
+---
+
+## How to Use C Language
+
+### 1. Write Code
+
+Use a **text editor** (like VS Code, Sublime Text, or even Notepad) to write your C code.
+
+A basic C program typically includes the `main()` function, which is the entry point for execution.
+
+Example:
+```c
+#include <stdio.h>
+
+int main() {
+    printf("Hello, World!\n");
+    return 0;
 }
