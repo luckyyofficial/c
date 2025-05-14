@@ -19,7 +19,7 @@ int main() {
 }  
 # 🧱 Basic C Program Structure (For Beginners)
 
-Every C program follows a standard format. If you're just getting started with C programming, understanding this basic structure is your first step.'
+Every C program follows a standard format. If you are just getting started with C programming, understanding this basic structure is your first step.
 
 ---
 
@@ -71,6 +71,8 @@ Example:
 #include <stdio.h>
 
 int main() {
-    printf("Hello, World!\n");
+    printf("Hello, World!");
     return 0;
 }
+
+
