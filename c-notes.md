@@ -12,7 +12,7 @@ C is a **general-purpose, procedural programming language** developed in the ear
 ### 📘 Simple Example:
 ```c
 #include <stdio.h>
-
+  
 int main() {
     printf("Hello, World!\n");
     return 0;
